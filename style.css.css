@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #1a1a1a, #000000);
+  color: white;
+  text-align: center;
+}
+.container {
+  padding: 50px 20px;
+}
+button {
+  display: block;
+  width: 80%;
+  margin: 10px auto;
+  padding: 15px;
+  font-size: 1.2em;
+  background-color: #ff3333;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+.ref {
+  margin-top: 30px;
+  font-size: 1em;
+  color: #999;
+}
